@@ -1,0 +1,7 @@
+<html>
+<head>
+<title> BOBSON.COM</title>
+<body background="tło.png" text="red">
+<big><marquee> BOBSON.COM SIEMA kontakt: pipien.grzegorz@gmail.com tel. +48 668 783 656 LOLZ PO CO WGL JEST TA STRONA NW</marquee></big></big></big>
+<head>
+<html>
